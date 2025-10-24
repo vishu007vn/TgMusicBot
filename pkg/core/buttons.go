@@ -11,10 +11,10 @@ package core
 import (
 	"fmt"
 
-	"github.com/AshokShau/TgMusicBot/pkg/core/cache"
-	"github.com/AshokShau/TgMusicBot/pkg/lang"
+	"github.com/vishu007vn/TgMusicBot/pkg/core/cache"
+	"github.com/vishu007vn/TgMusicBot/pkg/lang"
 
-	"github.com/amarnathcjd/gogram/telegram"
+	"github.com/vishu007vn/gogram/telegram"
 )
 
 // CloseBtn is a button that closes the current view.
@@ -39,13 +39,13 @@ var OwnerBtn = telegram.Button.Data("Oᴡɴᴇʀ Cᴏᴍᴍᴀɴᴅꜱ", "help_o
 var DevsBtn = telegram.Button.Data("Dᴇᴠꜱ Cᴏᴍᴍᴀɴᴅꜱ", "help_devs")
 
 // ChannelBtn is a button that links to the updates channel.
-var ChannelBtn = telegram.Button.URL("ᴜᴘᴅᴀᴛᴇꜱ", "https://t.me/FallenProjects")
+var ChannelBtn = telegram.Button.URL("owner", "https://t.me/Galiyokabadshah")
 
 // GroupBtn is a button that links to the support group.
-var GroupBtn = telegram.Button.URL("ꜱᴜᴘᴘᴏʀᴛ", "https://t.me/GuardxSupport")
+var GroupBtn = telegram.Button.URL("ꜱᴜᴘᴘᴏʀᴛ", "https://t.me/shayrirahulki")
 
 // SourceCodeBtn is a button that links to the source code.
-var SourceCodeBtn = telegram.Button.URL("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", "https://github.com/AshokShau/TgMusicBot")
+var SourceCodeBtn = telegram.Button.URL("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", "https://github.com/vishu007vn/TgMusicBot")
 
 // SupportKeyboard creates and returns an inline keyboard with buttons for support and updates.
 func SupportKeyboard() *telegram.ReplyInlineMarkup {
