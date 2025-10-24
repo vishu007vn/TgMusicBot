@@ -12,11 +12,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/AshokShau/TgMusicBot/pkg/core"
-	"github.com/AshokShau/TgMusicBot/pkg/core/db"
-	"github.com/AshokShau/TgMusicBot/pkg/lang"
+	"github.com/vishu007vn/TgMusicBot/pkg/core"
+	"github.com/vishu007vn/TgMusicBot/pkg/core/db"
+	"github.com/vishu007vn/TgMusicBot/pkg/lang"
 
-	"github.com/amarnathcjd/gogram/telegram"
+	"github.com/vishu007vn/gogram/telegram"
 )
 
 // pingHandler handles the /ping command.
