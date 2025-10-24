@@ -12,8 +12,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Laky-64/gologging"
-	"github.com/amarnathcjd/gogram/telegram"
+	"github.com/vishu007vn/gologging"
+	"github.com/vishu007vn/gogram/telegram"
 )
 
 // AdminCache is a cache for chat administrators.
