@@ -16,7 +16,7 @@ import (
 
 	"github.com/vishu007vn/TgMusicBot/pkg/config"
 	"github.com/vishu007vn/TgMusicBot/pkg/core/cache"
-	"github.com/Laky-64/gologging"
+	"github.com/vishu007vn/gologging"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
