@@ -11,8 +11,8 @@ package dl
 import (
 	"context"
 
-	"github.com/AshokShau/TgMusicBot/pkg/config"
-	"github.com/AshokShau/TgMusicBot/pkg/core/cache"
+	"github.com/vishu007vn/TgMusicBot/pkg/config"
+	"github.com/vishu007vn/TgMusicBot/pkg/core/cache"
 )
 
 // MusicService defines a standard interface for interacting with various music services.
