@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AshokShau/TgMusicBot/pkg/config"
+	"github.com/vishu007vn/TgMusicBot/pkg/config"
 
 	"github.com/Laky-64/gologging"
 )
