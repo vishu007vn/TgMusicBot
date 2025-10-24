@@ -22,8 +22,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/AshokShau/TgMusicBot/pkg/config"
-	"github.com/AshokShau/TgMusicBot/pkg/core/cache"
+	"github.com/vishu007vn/TgMusicBot/pkg/config"
+	"github.com/vishu007vn/TgMusicBot/pkg/core/cache"
 )
 
 const (
