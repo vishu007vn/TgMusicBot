@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Laky-64/gologging"
+	"github.com/vishu007vn/gologging"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
