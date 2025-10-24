@@ -15,8 +15,8 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/Laky-64/gologging"
-	tg "github.com/amarnathcjd/gogram/telegram"
+	"github.com/vishu007vn/gologging"
+	tg "github.com/vishu007vn/gogram/telegram"
 )
 
 // FFProbeFormat defines the structure for parsing the format information from ffprobe's JSON output.
