@@ -12,11 +12,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/AshokShau/TgMusicBot/pkg/core/db"
-	"github.com/AshokShau/TgMusicBot/pkg/lang"
+	"github.com/vishu007vn/TgMusicBot/pkg/core/db"
+	"github.com/vishu007vn/TgMusicBot/pkg/lang"
 
-	"github.com/Laky-64/gologging"
-	"github.com/amarnathcjd/gogram/telegram"
+	"github.com/vishu007vn/gologging"
+	"github.com/vishu007vn/gogram/telegram"
 )
 
 // getTargetUserID gets the user ID from a message.
